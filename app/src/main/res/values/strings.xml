@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Healthy India</string>
+    <string name="mid_day_menu">Mid Day Menu</string>
+    <string name="healthy_india">Healthy India</string>
+    <string name="menu">Menu</string>
+    <string name="nutrition_requirements">Nutrition Requirements</string>
+    <string name="students">Students Report</string>
+    <string name="about">About</string>
+    <string name="faq">FAQ</string>
+</resources>
